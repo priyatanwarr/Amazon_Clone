@@ -1,0 +1,138 @@
+/*.feb{
+    padding:50;
+    color: whitesmoke;
+    background-color: gray;
+    border: solid 2px white;
+    }*/
+
+
+
+
+   /* .send{
+        color: aquamarine;
+        background-color: blanchedalmond;
+        color: aqua;
+        float: right;
+        border: solid 3px gray;
+        margin:5px;
+        padding:10px;
+        float: left;
+        font-size: 30px;
+        font-weight: 100;
+        font-style: italic;
+        direction: ltr;
+    }
+
+    .receive{
+        background-color:black;
+        color:aqua;
+        border:solid 3px gray;
+        margin:5px;
+        padding:10px;
+        float:right;
+        font-size:30px;
+        font-weight:100;
+        font-style:italic;
+        direction:rtl;
+    }*/
+    /*.hori{
+        background-image: url('./img/amzonbody.jpg');
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+
+
+    }*/
+
+ /*.search{
+    display: flex;
+ }  
+ .divison{
+    display: flex;
+ } 
+.property{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+
+.body{
+    height: 100%;
+    width: 100%;
+}
+
+ 
+.select{
+    padding-left: 40px;
+    margin-top: 365px;
+    height: 458.64;
+    }*/
+.banner{
+    background-image: url('./img/amzonbody.jpg');
+    height:100%;
+    width:100%;
+    z-index:-1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    position: absolute;
+}    
+.parent{
+    display: flex;
+    height: 400px;
+    margin-left: 0px;
+    margin-right: 20px;
+    width: 100%;
+}
+.child{
+    background-color:white;
+    display: flex;
+    margin-top: 0px;
+    margin-left: 30px;
+    height: 400px;
+    width: 400px;
+    position: relative;
+}
+#a{
+    margin-top:300px;
+}
+#c{
+    margin-top: 30px;
+}
+#b{
+    margin-top:30px;
+}
+.outer{
+    width:1250px;
+    margin-top:30px;
+    margin-left:30px;
+    height:280px;
+    background-color:whitesmoke;
+    position :relative;
+}
+.block{
+    width:347px;
+    height:420px;
+    background-color:whitesmoke;
+    margin-top: 30px;
+    margin-left:30px;
+    position :relative;
+}
+.box{
+    margin-top: 30px;
+    margin-left: 30px;
+     width: 400px;
+     height: 400px;
+     display: flex;
+     position: relative;
+     background-color: whitesmoke;
+}
+.lid{
+    display: flex;
+    height:400px;
+    width:100%;
+    margin-top: 30px;
+}
